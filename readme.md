@@ -4,7 +4,7 @@
 3. [字符集和存储引擎](basic/day003.md)
 4. [SQL、功能分类及数据类型](basic/day004.md)
 5. [DDL数据定义语言](basic/day005.md)
-
+6. [DML数据操作语言](basic/day006.md)
 
 
 
